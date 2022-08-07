@@ -16,6 +16,11 @@ body h1 {
 body .download {
     color: aquamarine;
     font-size: 16px;
+    text-decoration: underline;
+}
+
+.download:hover {
+    cursor: pointer;
 }
 
 body h2 {
